@@ -1,0 +1,141 @@
+{
+  "Header": {
+    "title": "Ai Solutions on ibm cloud",
+    "paragraph": "Put IBM Watson® to work at scale your business with IBM’s AI expertise and portfolio of solutions at your side"
+  },
+  "About": {
+    "paragraph": "At IBM, we believe in world-changing progress: the full application of intelligence, reason and science to improve business, science and the human .",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "name": "Watson Assistant is AI for customer service",
+      "text": "Build a full-service artificial intelligence chatbot that integrates to your CRM systems. Watson Assistant seamlessly automates tasks, shaving priceless minutes off each customer support interaction. Pair with AI search functionality to guide agents to the information needed to resolve customer queries, improving the customer and human agent experience. Couple conversational AI with speech-to-text capabilities, driven by machine learning, to improve first contact resolution for voice interactions. Best of all: allow your human agents to focus on higher value work, all while reducing costs and improving customer satisfaction.."
+    },
+    {
+      "name": "Business automation",
+      "text": "Discover intelligent automation solutions from IBM to automate business workflows, seamlessly integrate business systems, gain insights into operations, improve customer care and create a stronger, more productive workforce."
+    },
+    {
+      "name": "IT Automation",
+      "text": "Explore IBM IT automation solutions that help you optimize your IT operations with a seamless environment integration. Simultaneously reduce cloud and infrastructure costs by 30% and speed up MTTR by 50%."
+    },
+    {
+      "name": "Integration",
+      "text": "Explore IBM integration solutions that speed development by up to 55%, reduce unplanned outages by up to 60% and take up to 60% less time to manage and monitor, while still maintaining enhanced security, governance and availability."
+    },
+    {
+      "name": "Natural Language Processing",
+      "text": "Natural language processing (NLP) is a subfield of artificial intelligence and computer science that focuses on the tokenization of data – the parsing of human language into its elemental pieces. By combining computational linguistics with statistical machine learning techniques and deep learning models, NLP enables computers to process human language in the form of text or voice data. Lemmatization and part of speech tagging enable a deep understanding of language, including context, the speaker or writer’s intent and sentiment.BM Watson® makes complex NLP technologies accessible to employees who are not data scientists. Our products are built for non-technical users, to help your business easily streamline business operations, increase employee productivity and simplify mission-critical business processes.."
+    },
+    {
+      "name": "Explainable AI",
+      "text": "Explainable artificial intelligence (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms. Explainable AI is used to describe an AI model, its expected impact and potential biases. It helps characterize model accuracy, fairness, transparency and outcomes in AI-powered decision making. Explainable AI is crucial for an organization in building trust and confidence when putting AI models into production. AI explainability also helps an organization adopt a responsible approach to AI development.As AI becomes more advanced, humans are challenged to comprehend and retrace how the algorithm came to a result. The whole calculation process is turned into what is commonly referred to as a black box that is impossible to interpret. These black box models are created directly from the data. And, not even the engineers or data scientists who create the algorithm can understand or explain what exactly is happening inside them or how the AI algorithm arrived at a specific result.There are many advantages to understanding how an AI-enabled system has led to a specific output.  Explainability can help developers ensure that the system is working as expected, it might be necessary to meet regulatory standards, or it might be important in allowing those affected by a decision to challenge or change that outcome."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "/Overview One of the largest insurance providers in the United States, Humana offers Medicare supplements, health insurance, dental insurance, vision insurance and pharmacy coverage to more than 13 million customers across the country.In order to differentiate themselves in what is both a complex and crucially important space, healthcare and insurance companies need to continuously innovate to improve customer service and retention. Consumers expect to receive quick and accurate answers to their queries wherever and whenever they want. Increasingly, providers are forced to rethink their service offerings in order to keep up with user expectations.",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.png",
+      "text": "\"Challenges with legacy systems Humana’s interactive voice response (IVR) system was transferring far too many calls to human agents, at tremendous cost to the company and its customer satisfaction scores. Administrative staff from healthcare providers contact Humana via phone with inquiries about Humana members’ health plan benefits and eligibility. Humana receives over 1 million provider calls every month, and most callers were opting out of the IVR system to be directed to outsourced call centers, for which Humana paid by the call. More than 60% of these calls were related to routine, specific, pre-service questions with well-defined answers.To meet ever-growing user expectations, Humana needed a way to completely rethink how they addressed customer queries. The Humana Provider Services Innovation (PSI) team was charged with finding a solution that could better address these costly pre-service calls and improve the provider experience..\"",
+      "name": "Sara jines Director of provider Experience and Connectvity, Humana "
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\".OverviewThe quality of their client relationships is what differentiates Crédit Mutuel.Crédit Mutuel, one of France’s leading banks, has over 5, 000 branches that receive more than 350, 000 online inquiries a day — and volume is growing 23% a year. Maintaining the quality of client relationships, while dealing with an ever-rising stream of customers and client requests, meant reinventing the role of client advisor or losing their competitive edge.After running a diagnosis of how client advisors were spending their time, Crédit Mutuel found that a significant part of their work involved answering simple and repetitive questions. With this in mind, the bank turned to IBM to find a solution that could speed up everyday processes and allow client advisors time to address more complicated and nuanced problems..\"",
+      "name": "phil salt"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Making Watson part of the teamWhen Watson was introduced at Crédit Mutuel, employees began asking about the possibility of their jobs being replaced by AI. The bank needed to convince employees of Watson’s ability to empower them do their jobs better — not replace them. “The challenge was offering something that would be good enough for customer advisors to change their habits,” said one of Crédit Mutuel’s project managers.Getting adoption at scale meant regularly reminding customer advisors to go through Watson, rather than rely on older systems they might be more comfortable with. As the system improved and became more user-friendly, its use increased. Watson began transforming how client advisors could get work done.“Watson is my assistant. He’s a time-saver and lets me know my client better,” said one of Crédit Mutuel’s 20,000 customer advisors. “Watson is a job facilitator. It allows resources to be refocused on matters of added value,” said Reichert..\"",
+      "name": "Reichert"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Trust in AI is a hot topic in the headlines. Can we trust the decisions AI models recommend? Can we trust that AI will not perpetuate bias? Can we explain the inner workings of AI to auditors and key stakeholders in a business? For multinational financial services enterprises like KPMG, trust in AI is critical to their adoption of the technology.In a recent leadership conversation, Kelly Combs, Director of Emerging Technology Risk Services at KPMG and Srividya Sridharan, a vice president of Research at Forrester, discuss how establishing trust in AI promotes their competitive edge in the marketplace.Learn how explainable and trusted AI can maximize competitive advantage.Watch a summary (0: 31) above of a leadership conversation with Forrester Research and KPMG, and watch a video of the full conversation (23: 34) here.“Only about 5 percent of KPMG clients are heavily adopting AI at this point,” says Kelly Combs. “Why is that? And what’s holding them back?”ccording to Combs, transparency and trust about how AI functions accounts for slower adoption. The panel discussion covers a number of topics that address trust in AI:AI black box concept – lack of understanding about what AI does creates mistrustAI integrity – detecting and preventing AI bias and drift, which may undermine trust that models will perform as intended or arrive at fair conclusions.AI explainability – AI models and processes must be explainable to regulators, line of business and external stakeholders.AI and data and information architecture – whether businesses are structurally ready to experience the full benefits of AI.The AI black box“To many who aren’t data scientists,” says Combs, “AI still is a black box and that scares us.” Many are reluctant to adopt AI because they don’t fully understand it. And the fear is real. In the highly regulated financial industry, institutions face serious legal and financial consequences if AI models are incorrect or misinterpreted.How can we foster trust in models and AI Systems? Data integrity.AI integrity: preventing drift and biasOne of the most important concerns for organizations using AI is ensuring data integrity. To recognize how and why AI systems come to particular conclusions, enterprises need to understand the origin and quality of data and how AI models are trained. Fairness in AI begins with AI models built, trained and monitored to prevent bias and drift.Bias in AI occurs when models give preferential treatment to privileged groups. When models introduce bias into loan or credit approvals or other sensitive financial transactions, customers may be harmed and banks may be exposed to substantial legal and financial penalties.Drift occurs when AI models evaluate data that is different or has changed from the data on which the model was trained, degrading their accuracy over time. Learn more about AI Model Drift.“Financial institutions are using AI and machine learning to determine the creditworthiness of loan applicants, looking at attributes such as FICO scores, age and income,” says Combs. “It is the responsibility of the financial institutions to explain why and how a person was declined for a loan.”Bias is not always easy to detect and can creep into models even when the data scientists omit filters likely to discriminate such as gender, age, ethnicity or race. An AI model used in hiring that prefers candidates who own a car may inadvertently discriminate against people of color, who have a lower per-capita percentage of automobile ownership. Similarly, an AI model trained on the resumes of males may inadvertently perpetuate gender bias.Forrester moderator Srividya Sridharan points out that “technologies and tools are actually giving us humans a great way to uncover the biases that may already have existed.” Among these solutions, IBM Watson OpenScale™, now a part of Watson Studio on IBM Cloud Pak® for Data, helps weed out bias and drift in models.“If I need to articulate how and why a system came to its determination and what were the data attributes it used,” says Kelly Combs, “IBM Watson OpenScale™ on IBM Cloud Pak for Data is one of the only technologies in the marketplace that is helping solve and give transparency in business terms to our clients.”Learn more about how on IBM Cloud Pak for Data helps ensure that AI is trustworthy, transparent and compliant..\"",
+      "name": "Andrew"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Giselli Monteiro"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
